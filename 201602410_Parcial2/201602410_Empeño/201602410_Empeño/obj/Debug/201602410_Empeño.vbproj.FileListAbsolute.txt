@@ -1,0 +1,13 @@
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\201602410_Empeño.vbproj.AssemblyReference.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\201602410_Empeño.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\_201602410_Empeño.Form1.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\_201602410_Empeño.Resources.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\201602410_Empeño.vbproj.GenerateResource.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\201602410_Empeño.vbproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\bin\Debug\201602410_Empeño.exe.config
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\bin\Debug\201602410_Empeño.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\bin\Debug\201602410_Empeño.pdb
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\bin\Debug\201602410_Empeño.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\201602410_Empeño.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\201602410_Empeño.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2022\201602410_Parcial2\201602410_Empeño\201602410_Empeño\obj\Debug\201602410_Empeño.pdb
